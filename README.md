@@ -27,3 +27,17 @@ Bu sənəddə həm kommersiya, həm də açıq mənbə SIEM alətləri müqayis�
 
 ## 🧠 Əlavə məlumat
 Əgər sənədin PDF versiyası əlavə olunubsa, GitHub-da birbaşa açaraq oxuya bilərsiniz.
+
+---
+
+## 🏷️ Tags
+`information-security`  
+`cybersecurity`  
+`siem`  
+`logging`  
+`network-security`  
+`security-tools`  
+`iso27001`  
+`report`  
+`documentation`
+
